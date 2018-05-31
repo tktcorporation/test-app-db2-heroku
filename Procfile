@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/test-app-db2-heroku -Dhttp.port=${PORT} -DapplyEvolutions.default=true
